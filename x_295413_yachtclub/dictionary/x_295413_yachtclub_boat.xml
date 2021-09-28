@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Boat" max_length="40" name="x_295413_yachtclub_boat" type="collection">
+    <element label="Boat" max_length="40" name="x_295413_yachtclub_boat" sizeclass="3" type="collection">
         <element label="Name" max_length="60" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Number of Cabins" max_length="40" name="number_of_cabins" type="integer"/>
