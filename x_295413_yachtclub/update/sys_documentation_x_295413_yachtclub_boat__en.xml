@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Boat" language="en" table="x_295413_yachtclub_boat">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Boat</label>
+            <language>en</language>
+            <name>x_295413_yachtclub_boat</name>
+            <plural>Boats</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-28 09:27:09</sys_created_on>
+            <sys_id>41c6307a2f7230101484c786f699b65f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Boat</sys_name>
+            <sys_package display_value="Yacht Club" source="x_295413_yachtclub">94499bab07a86010b26bf2508c1ed038</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</sys_scope>
+            <sys_update_name>sys_documentation_x_295413_yachtclub_boat__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-28 09:27:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
